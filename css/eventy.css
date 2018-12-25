@@ -1,0 +1,48 @@
+ #ad{
+	float: right;
+}
+
+#facs{
+	clear: both;
+}
+
+#speak{
+	margin-left: 525px;
+}
+
+#chief a{
+	display: inline-block;
+	margin: 0 30px;
+	width: 250px;
+	height: 250px;
+	overflow: hidden;
+	
+}
+
+#chief img{
+	width: 100%;
+	filter: grayscale(60%);
+	transition: 0.4s all;
+
+}
+
+#chief a:hover > img{
+	filter: none;
+}
+
+#chief{
+	float: left;
+	width: 400px;
+}
+#footer{
+	clear: left;
+}
+
+#spk{
+	margin-left: 30px;
+}
+
+#speakp{
+	font-family: "Comic Sans MS", cursive, sans-serif;
+
+}
